@@ -122,9 +122,9 @@ const hackathonsection = document.querySelector(".hackathon-section");
 const mentor = [
   {
     title: "KMIPN 2018",
-    subtitle: "Participant",
+    subtitle: "First Champions",
     image: "assets/images/experience-page/kmipn_2018.jpeg",
-    desp: "I became the first winner of hundreds of polytechnic participants in Indonesia",
+    desp: "First winner in the hackathon category, with hewanq marketplaceq",
   },
 
 ];
